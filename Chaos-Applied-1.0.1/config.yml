@@ -1,0 +1,432 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: Chaos Rat
+                  root: ucp/plugins/Chaos/resources/ai/Rat/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              snake:
+                - name: Chaos Snake
+                  root: ucp/plugins/Chaos/resources/ai/Snake/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: Chaos Pig
+                  root: ucp/plugins/Chaos/resources/ai/Pig/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wolf:
+                - name: Chaos Wolf
+                  root: ucp/plugins/Chaos/resources/ai/Wolf/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              saladin:
+                - name: Chaos Saladin
+                  root: ucp/plugins/Chaos/resources/ai/Saladin/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: Chaos Caliph
+                  root: ucp/plugins/Chaos/resources/ai/Caliph/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: Chaos Sultan
+                  root: ucp/plugins/Chaos/resources/ai/Sultan/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              richard:
+                - name: Chaos Richard
+                  root: ucp/plugins/Chaos/resources/ai/Richard/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: Chaos Frederick
+                  root: ucp/plugins/Chaos/resources/ai/Frederick/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: Chaos Phillip
+                  root: ucp/plugins/Chaos/resources/ai/Phillip/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: Chaos Wazir
+                  root: ucp/plugins/Chaos/resources/ai/Wazir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: Chaos Emir
+                  root: ucp/plugins/Chaos/resources/ai/Emir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: Chaos Nizar
+                  root: ucp/plugins/Chaos/resources/ai/Nizar/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: Chaos Sheriff
+                  root: ucp/plugins/Chaos/resources/ai/Sheriff/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: Chaos Marshal
+                  root: ucp/plugins/Chaos/resources/ai/Marshal/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: The King
+                  root: ucp/plugins/Chaos/resources/ai/The King/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          rat:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Rat
+                  root: ucp/plugins/Chaos/resources/ai/Rat/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Rat
+                  root: ucp/plugins/Chaos/resources/ai/Rat/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Rat
+                  root: ucp/plugins/Chaos/resources/ai/Rat/
+                  active: true
+          snake:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Snake
+                  root: ucp/plugins/Chaos/resources/ai/Snake/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Snake
+                  root: ucp/plugins/Chaos/resources/ai/Snake/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Snake
+                  root: ucp/plugins/Chaos/resources/ai/Snake/
+                  active: true
+          pig:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Pig
+                  root: ucp/plugins/Chaos/resources/ai/Pig/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Pig
+                  root: ucp/plugins/Chaos/resources/ai/Pig/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Pig
+                  root: ucp/plugins/Chaos/resources/ai/Pig/
+                  active: true
+          wolf:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Wolf
+                  root: ucp/plugins/Chaos/resources/ai/Wolf/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Wolf
+                  root: ucp/plugins/Chaos/resources/ai/Wolf/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Wolf
+                  root: ucp/plugins/Chaos/resources/ai/Wolf/
+                  active: true
+          saladin:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Saladin
+                  root: ucp/plugins/Chaos/resources/ai/Saladin/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Saladin
+                  root: ucp/plugins/Chaos/resources/ai/Saladin/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Saladin
+                  root: ucp/plugins/Chaos/resources/ai/Saladin/
+                  active: true
+          caliph:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Caliph
+                  root: ucp/plugins/Chaos/resources/ai/Caliph/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Caliph
+                  root: ucp/plugins/Chaos/resources/ai/Caliph/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Caliph
+                  root: ucp/plugins/Chaos/resources/ai/Caliph/
+                  active: true
+          sultan:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Sultan
+                  root: ucp/plugins/Chaos/resources/ai/Sultan/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Sultan
+                  root: ucp/plugins/Chaos/resources/ai/Sultan/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Sultan
+                  root: ucp/plugins/Chaos/resources/ai/Sultan/
+                  active: true
+          richard:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Richard
+                  root: ucp/plugins/Chaos/resources/ai/Richard/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Richard
+                  root: ucp/plugins/Chaos/resources/ai/Richard/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Richard
+                  root: ucp/plugins/Chaos/resources/ai/Richard/
+                  active: true
+          frederick:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Frederick
+                  root: ucp/plugins/Chaos/resources/ai/Frederick/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Frederick
+                  root: ucp/plugins/Chaos/resources/ai/Frederick/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Frederick
+                  root: ucp/plugins/Chaos/resources/ai/Frederick/
+                  active: true
+          phillip:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Phillip
+                  root: ucp/plugins/Chaos/resources/ai/Phillip/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Phillip
+                  root: ucp/plugins/Chaos/resources/ai/Phillip/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Phillip
+                  root: ucp/plugins/Chaos/resources/ai/Phillip/
+                  active: true
+          wazir:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Wazir
+                  root: ucp/plugins/Chaos/resources/ai/Wazir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Wazir
+                  root: ucp/plugins/Chaos/resources/ai/Wazir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Wazir
+                  root: ucp/plugins/Chaos/resources/ai/Wazir/
+                  active: true
+          emir:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Emir
+                  root: ucp/plugins/Chaos/resources/ai/Emir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Emir
+                  root: ucp/plugins/Chaos/resources/ai/Emir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Emir
+                  root: ucp/plugins/Chaos/resources/ai/Emir/
+                  active: true
+          nizar:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Nizar
+                  root: ucp/plugins/Chaos/resources/ai/Nizar/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Nizar
+                  root: ucp/plugins/Chaos/resources/ai/Nizar/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Nizar
+                  root: ucp/plugins/Chaos/resources/ai/Nizar/
+                  active: true
+          sheriff:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Sheriff
+                  root: ucp/plugins/Chaos/resources/ai/Sheriff/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Sheriff
+                  root: ucp/plugins/Chaos/resources/ai/Sheriff/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Sheriff
+                  root: ucp/plugins/Chaos/resources/ai/Sheriff/
+                  active: true
+          marshal:
+            aic:
+              contents:
+                suggested-value:
+                  name: Chaos Marshal
+                  root: ucp/plugins/Chaos/resources/ai/Marshal/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Chaos Marshal
+                  root: ucp/plugins/Chaos/resources/ai/Marshal/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Chaos Marshal
+                  root: ucp/plugins/Chaos/resources/ai/Marshal/
+                  active: true
+          abbot:
+            aic:
+              contents:
+                suggested-value:
+                  name: The King
+                  root: ucp/plugins/Chaos/resources/ai/The King/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: The King
+                  root: ucp/plugins/Chaos/resources/ai/The King/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: The King
+                  root: ucp/plugins/Chaos/resources/ai/The King/
+                  active: true
+  plugins:
+    Chaos:
+      config: {}
+meta:
+  version: 1.0.1

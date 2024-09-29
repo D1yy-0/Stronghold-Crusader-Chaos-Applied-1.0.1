@@ -1,0 +1,7 @@
+name: Chaos-Applied
+display-name: "Chaos Applied"
+author: D1yy
+version: 1.0.1
+dependencies:
+  framework: ">=3.0.0"
+  frontend: ">=1.0.0"
